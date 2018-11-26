@@ -40,7 +40,7 @@ The failure reads: `Make sure you have edited the file edit-me.txt`
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co (if you don't, try hitting refresh, if you still don't, "Ask a Question" and we'll help). Congratulations! You've just solved your first lab.
 
 ## Video Demo
 
